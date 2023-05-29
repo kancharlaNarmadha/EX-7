@@ -3,6 +3,7 @@
 DATE :20-04-2023
 
 AIM :
+
 To write the python program for simulating Traceroute command
 
 
@@ -33,7 +34,8 @@ print(result,unans)
 
 
 OUTPUT :
+
 ![CN OUTPUT 7](https://github.com/kancharlaNarmadha/EX-7/assets/119559316/d66733d7-de74-4b6c-99e4-616975bf3293)
 
 
-RESULT :
+RESULT :Thus, the python program for simulating Traceroute command was successfully executed.
